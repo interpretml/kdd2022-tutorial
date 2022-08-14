@@ -129,9 +129,9 @@ conda config --env --set subdir osx-64
 <br/>
 <br/>
 
-> ### Why do you think they call them “hidden units”? Use glassbox machine learning.
 
-
+> ### black box == black hole
+> ### Let's redefine the event horizon to be the transparency horizon.
 
 
 

@@ -1,4 +1,4 @@
-# [KDD 2022 Tutorial] Why Data Scientists Prefer Glassbox Machine Learning: Algorithms, Differential Privacy, Editing and Bias Mitigation 
+# [KDD 2022 Tutorial] <br><br> Why Data Scientists Prefer Glassbox Machine Learning: <br>Algorithms, Differential Privacy, Editing and Bias Mitigation 
 
 ![](https://github.com/interpretml/interpretml.github.io/blob/master/interpret-highlight.gif)
 
@@ -29,13 +29,17 @@ Recent research has shown that interpretable machine learning models can be just
 
 ## Tutors and Bios
 
-![Rich Caruana](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/avatar_user_33365_1499288470-360x360.jpg)
+<!-- ![Rich Caruana](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/avatar_user_33365_1499288470-360x360.jpg) -->
+<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/avatar_user_33365_1499288470-360x360.jpg" width="360" />
+
 
 [Rich Caruana @ Microsoft Research](https://www.microsoft.com/en-us/research/people/rcaruana/)
 
 - Rich Caruana is a senior principal researcher at Microsoft Research. Before joining Microsoft, Rich was on the faculty in the Computer Science Department at Cornell University, at UCLA’s Medical School, and at CMU’s Center for Learning and Discovery.  Rich’s Ph.D. is from Carnegie Mellon University, where he worked with Tom Mitchell and Herb Simon.  His thesis on Multi-Task Learning helped create interest in a new subfield of machine learning called Transfer Learning.  Rich received an NSF CAREER Award in 2004, best paper awards in 2005, 2007, 2014, and 2021 co-chaired KDD in 2007, and serves as area chair for NIPS, ICML, and KDD. His current research focus is on learning for medical decision making, transparent modeling, and deep learning.
     
-![Harsha Nori](https://www.microsoft.com/en-us/research/uploads/prod/2022/07/harsha_profile_pic.jpg)
+<!-- ![Harsha Nori](https://www.microsoft.com/en-us/research/uploads/prod/2022/07/harsha_profile_pic.jpg) -->
+<img src="https://www.microsoft.com/en-us/research/uploads/prod/2022/07/harsha_profile_pic.jpg" width="360" />
+
 [Harsha Nori @ Microsoft Research](https://www.microsoft.com/en-us/research/people/hanori/)
 - Harsha Nori is a senior research engineering manager at Microsoft Research, working on Responsible AI tools. He co-founded the popular InterpretML toolkit, and has contributed to a number of popular open source data science tools. His current research focus is on explainability, fairness, and differential privacy for machine learning, and has published on these topics at conferences including NeurIPS, ICML, AAAI, CHI, and CLeaR, with a best paper at the 2021 NeurIPS Research2Clinics workshop. 
 
@@ -125,9 +129,9 @@ conda config --env --set subdir osx-64
 <br/>
 <br/>
 
-> ### Why do you think they call them “hidden units”? Use glassbox machine learning.
 
-
+> ### black box == black hole
+> ### Let's redefine the event horizon to be the transparency horizon.
 
 
 

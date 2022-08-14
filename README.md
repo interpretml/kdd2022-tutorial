@@ -1,4 +1,4 @@
-# [KDD 2022 Tutorial] Why Data Scientists Prefer Glassbox Machine Learning: Algorithms, Differential Privacy, Editing and Bias Mitigation 
+# [KDD 2022 Tutorial] <br><br> Why Data Scientists Prefer Glassbox Machine Learning: <br>Algorithms, Differential Privacy, Editing and Bias Mitigation 
 
 ![](https://github.com/interpretml/interpretml.github.io/blob/master/interpret-highlight.gif)
 

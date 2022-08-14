@@ -57,7 +57,7 @@ Note that M1/M2 based Mac devices require a slightly modified setup process. Ple
 
 - Activate your newly created environment: `conda activate interpret`
 
-2) Install required packages on the command line: `pip install interpret gamchanger jupyter`
+2) Install required packages on the command line: `pip install interpret gamchanger jupyter requests`
 
 3) Clone this repository: `git clone https://github.com/interpretml/kdd2022-tutorial.git`
 
